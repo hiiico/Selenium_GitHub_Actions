@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj": {}
+    "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj": {}
   },
   "projects": {
-    "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj": {
+    "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj",
+        "projectUniqueName": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj",
         "projectName": "SeleniumIde",
-        "projectPath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj",
+        "projectPath": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/Selenium_GitHub_Actions/SeleniumIDE/SeleniumIde.csproj",
         "packagesPath": "/home/hiiico/.nuget/packages/",
-        "outputPath": "/home/hiiico/IdeaProjects/DevOps/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/Selenium_GitHub_Actions/SeleniumIDE/obj/",
+        "outputPath": "/home/hiiico/IdeaProjects/DevOps/GitHub_Projects/Selenium_GitHub_Actions/SeleniumIDE/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hiiico/.nuget/NuGet/NuGet.Config"
